@@ -4,7 +4,7 @@
 
 Here is something about me:
 
-- 🔭 I’m currently working on Android Development
+- 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Python
 - 📫 How to reach me: https://www.linkedin.com/in/samiksha-asati-980204235/
